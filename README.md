@@ -1,7 +1,7 @@
 # PyStockSim Terminal
-![Good First Project](https://img.shields.io/badge/Good_First_Project-Yes-yellow)
+![Good First Project](https://img.shields.io/badge/Good_First_Project-Yes-brightyellow)
 ![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen)
-![Open Source](https://img.shields.io/badge/Open-Source-lightblue)
+![Open Source](https://img.shields.io/badge/Open-Source-blue)
 
 A feature-rich Python stock trading simulator featuring a modern dark-mode Tkinter GUI. Engineered with `yfinance` for live market data, `Matplotlib` for technical charts, multi-threading for real-time price alerts, and `pandas` for CSV data export.
 
