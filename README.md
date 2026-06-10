@@ -1,5 +1,5 @@
 # PyStockSim Terminal
-![Good First Project](https://img.shields.io/badge/Good_First_Project-Yes-yellow)
+![Good First Project](https://img.shields.io/badge/Good_First_Project-Yes-orange)
 ![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen)
 ![Open Source](https://img.shields.io/badge/Open-Source-blue)
 
