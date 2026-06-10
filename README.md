@@ -22,19 +22,25 @@ A feature-rich Python stock trading simulator featuring a modern dark-mode Tkint
 
 ---
 
-## 🚀 Quick Start
+# 🚀 Quick Start
+## Step 1: Clone the Repository
+
 ```bash
-## Step 1: Clone the repository and enter the project folder
-git clone [https://github.com/kok-sk/PyStockSim.git](https://github.com/kok-sk/PyStockSim.git)
+git clone https://github.com/kok-sk/PyStockSim.git
 cd PyStockSim
+```
+
+## Step 2: Install Required Packages
 
 ```bash
-## Step 2: Install required packages
 pip install yfinance pandas matplotlib
+```
 
-```bash
-## Step 3: (Optional) Initialize Local User Data
-### If you want to bypass the registration UI, create 'portfolio.json' manually with your account data, for example:
+## Step 3: Initialize Local User Data (Optional)
+
+If you want to bypass the registration UI, create `portfolio.json` manually:
+
+```json
 {
     "GuestUser": {
         "balance": 10000.0,
@@ -43,7 +49,10 @@ pip install yfinance pandas matplotlib
         "buy_prices": {}
     }
 }
+```
+
+## Step 4: Launch the Simulator
 
 ```bash
-## Step 4: Launch the Simulator
 python stock_trading_simulator.py
+```
