@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Custom database & export bypass
+portfolio.json
+*_portfolio.csv
